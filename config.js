@@ -38,10 +38,10 @@ module.exports = {
 
   nodes: [
     {
-        name: "Server",
-        host: "nodev4.fypmoon.org",
+        name: "Koi Node V4",
+        host: "lavav4.prplmoe.me",
         port: 1118,
-        password: "fypmoon.org",
+        password: "prplmoe.me",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
