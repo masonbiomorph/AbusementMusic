@@ -38,10 +38,10 @@ module.exports = {
 
   nodes: [
     {
-        name: "INZEWORLD.COM (DE)",
-        host: "lava.inzeworld.com",
-        port: 3128,
-        password: "saher.inzeworld.com",
+        name: "ChalresNaig Node",
+        host: "lavahatry4.techbyte.host",
+        port: 3000,
+        password: "NAIGLAVA-dash.techbyte.host",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
