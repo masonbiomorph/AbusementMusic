@@ -38,10 +38,10 @@ module.exports = {
 
   nodes: [
     {
-        name: "INZEWORLD.COM (DE)",
-        host: "lava.inzeworld.com",
-        port: 3128,
-        password: "saher.inzeworld.com",
+        name: "Public Lavalink v4 NonSSL",
+        host: "lava-v4.ajieblogs.eu.org",
+        port: 80,
+        password: "https://dsc.gg/ajidevserver",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
